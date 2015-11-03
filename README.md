@@ -1,11 +1,11 @@
 # searcheasy
-Chrome extension to provide standard search box to do searches on websites with a press of a key. 
+Chrome extension to provide standard search box to do searches on websites with a press of a key.
 
 ##Demo
 Press `Alt + K` to evoke the search box:
 
 ![Extension Demo]
-(http://i.imgur.com/BDWm3zI.gif)
+(http://i.imgur.com/ulTNpE1.gif)
 
 ##Contribute
 
